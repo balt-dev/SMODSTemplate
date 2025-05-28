@@ -1,6 +1,7 @@
 SMODS.Joker {
     key = "bimjo",
     atlas = 'jokers', pos = { x = 0, y = 0 },
+    discovered = true,
     config = {
         extra = {
             mult = 5,
@@ -33,6 +34,7 @@ SMODS.Joker {
     key = "the_cooler_bimjo",
     rarity = 3, -- 1 -> common, 2 -> uncommon, 3 -> rare
     atlas = 'jokers', pos = { x = 1, y = 0 },
+    discovered = true,
     config = {
         extra = {
             mult = 50,

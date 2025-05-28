@@ -13,3 +13,4 @@ assert(SMODS.current_mod.lovely, "Lovely patches were not loaded! Make sure your
 assert(SMODS.load_file("./modules/utils.lua"))()
 assert(SMODS.load_file("./modules/assets.lua"))()
 assert(SMODS.load_file("./modules/jokers.lua"))()
+assert(SMODS.load_file("./modules/config.lua"))()
